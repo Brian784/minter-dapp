@@ -1,9 +1,9 @@
 const contractAddress = "0x1F21379c344532565BFa6fD2b6B2Fb1d3B8cDEf5"; // Replace with your own contract address
 const chain = 'ethereum'; // goerli, polygon, or ethereum
 
-const welcome_h1 = "Welcome to the CodeCats NFT Project!!";
+const welcome_h1 = "Welcome to the Web 3 Silicon Valley!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The CodeCats NFT Project is a decentralized, open-source project that aims to demonstrate how to develope and launch your own NFT Collection. Follow step by step on the <a href="https://youtube.com/codestackr"  target="_blank" rel="noopener noreferrer">codeSTACKr</a> YouTube channel.';
+const welcome_p = 'Silicon Valley Punks is a Collection of 5,000 Individually Hand Crafted Avatars and an Exclusive membership to the Opensource Web 3 Silicon Valley Platform we are building!"';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
